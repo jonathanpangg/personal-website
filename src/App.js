@@ -1,10 +1,12 @@
 import React from 'react'
+import AboutMe from './components/AboutMe';
 import Header from './components/Header'
 
 function App() {
   return (
     <div>
-      <Header title='Hello'/>
+      <Header/> 
+      <AboutMe/>
     </div>
   );
 }
