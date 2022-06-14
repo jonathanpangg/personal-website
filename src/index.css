@@ -14,7 +14,7 @@ code {
 
 .header {
   background-color: black;
-  height: 45px
+  height: 45px;
 }
 
 .header_left {
@@ -32,30 +32,40 @@ code {
 }
 
 .about_me {
-  font-size: 24px;
+  font-size: 30px;
   text-align: center;
   color: white;
   float: center;
   font-weight: 400;
-  padding-top: 0.75%;
+  padding-top: 3.75%;
 }
 
 .about_me_background {
   background-color: cornflowerblue;
-  height: 75px
+  height: 150px
 }
 
 .pic_one {
-  width: 50%;
+  width: 25%;
   height: 25%;
 }
 
+.pic_one_test {
+  width: 25%;
+  height: 25%;
+  float: right;
+}
+
 .text_one_background {
-  background-color: rgb(110, 188, 202);
-  height: 771px;
+  background-color: rgb(92, 179, 194);
+  height: 500px;
   width: 50%;
   float: right;
   text-align: center;
+}
+
+.link_one {
+  padding-left: 5%;
 }
 
 .topnav {
