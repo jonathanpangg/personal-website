@@ -32,12 +32,31 @@ code {
 }
 
 .about_me {
-  font-size: 20px;
-  float: center;
+  font-size: 24px;
   text-align: center;
-  width: 500px;
+  color: white;
+  float: center;
+  font-weight: 400;
+  padding-top: 0.75%;
 }
 
+.about_me_background {
+  background-color: cornflowerblue;
+  height: 75px
+}
+
+.pic_one {
+  width: 50%;
+  height: 25%;
+}
+
+.text_one_background {
+  background-color: rgb(110, 188, 202);
+  height: 771px;
+  width: 50%;
+  float: right;
+  text-align: center;
+}
 
 .topnav {
   background-color: #333;

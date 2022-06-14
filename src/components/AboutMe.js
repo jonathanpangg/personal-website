@@ -1,11 +1,12 @@
 const AboutMe = () => {
   return (
-    <div className = 'about_me'> 
+    <div className= 'about_me_background'> 
+      <div className = 'about_me'> 
         <text> 
-            I'm Jonathan Pang and
-            I am a sophomore at Boston University 
-            studying Computer Science.
+          Hello. I'm Jonathan Pang and I am a sophomore at Boston University 
+          studying Computer Science.
         </text>
+      </div>
     </div>
   )
 }
