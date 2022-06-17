@@ -45,27 +45,31 @@ code {
   height: 150px
 }
 
+.test_background {
+  display: block;
+}
+
 .pic_one {
   width: 25%;
   height: 25%;
+  float: left;
+}
+
+.text_one_background {
+  background-color: rgb(92, 179, 194);
+  height: 760px;
+  width: 75%;
+  text-align: center;
+}
+
+.link_one {
+  padding-left: 5%;
 }
 
 .pic_one_test {
   width: 25%;
   height: 25%;
   float: right;
-}
-
-.text_one_background {
-  background-color: rgb(92, 179, 194);
-  height: 500px;
-  width: 50%;
-  float: right;
-  text-align: center;
-}
-
-.link_one {
-  padding-left: 5%;
 }
 
 .topnav {
